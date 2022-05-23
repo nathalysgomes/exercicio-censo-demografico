@@ -40,4 +40,4 @@ Fim
 
 --------------------------------------------------------
 
-![fluxograma](https://github.com/nathalysgomes/algoritmo-eleicoes/blob/main/exercicioeleicoes.png)
+![fluxograma](https://github.com/nathalysgomes/exercicio-censo-demografico/blob/main/exercicio_censo1.png)
